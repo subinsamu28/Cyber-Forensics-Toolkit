@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+PyPDF2
+python-docx
+pillow
+pytsk3
